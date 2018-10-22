@@ -1,7 +1,7 @@
 # steganography
 A steganography application written in Java with JavaFX. 
 
-##usage
+## usage
 
 1. Download or clone the source files in the src folder. 
 
